@@ -1,4 +1,4 @@
-{
+---
     "title" : ""
     "author" : ""
     "publisher" : ""
@@ -6,4 +6,4 @@
     "release_date" : ""
     "lang" : ""
     "tag" : ""
-}
+---
