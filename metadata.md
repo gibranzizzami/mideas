@@ -3,7 +3,7 @@
     "author" : ""
     "publisher" : ""
     "desc" : ""
-    "release_date" : ""
+    "release-date" : ""
     "lang" : ""
     "tag" : ""
 ---
