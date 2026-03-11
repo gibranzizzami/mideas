@@ -1,7 +1,7 @@
 ---
-    - "title" : ""
-    - "author" : ""
-    - "publisher" : ""
-    - "release date" : ""
-    - "license" : ""
+    "title" : ""
+    "author" : ""
+    "publisher" : ""
+    "release date" : ""
+    "license" : ""
 ---
