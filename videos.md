@@ -2,7 +2,7 @@
     "title" : ""
     "duration" : ""
     "actor" : 
-            - "role" : ""
+    "actor-role" : ""
     "director" : ""
     "writer" : ""
     "duration" : ""
