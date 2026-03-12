@@ -3,9 +3,10 @@
   "author" : ""
   "publisher" : ""
   "identifier" : ""
-  "url" : ""
+  "link" : ""
   "abstract" : ""
   "source" : ""
   "locale" : ""
+  "section" : ""
   "license" : ""
 ---
