@@ -1,6 +1,6 @@
 ---
-    "url" : ""
-    "Secure url" : ""
+    "link" : ""
+    "secure-link" : ""
     "type" : ""
     "height" : ""
     "width" : ""
