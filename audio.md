@@ -1,7 +1,7 @@
 ---
     "title" : ""
     "type" : ""
-    "url" : ""
+    "link" : ""
     "image" : ""
     "description" : ""
     "logo" : ""
